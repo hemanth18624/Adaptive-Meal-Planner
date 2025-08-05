@@ -1,24 +1,24 @@
-# 🥗 Adaptive Meal Planner using RAG & Google Gemini
+#  Adaptive Meal Planner using RAG & Google Gemini
 
 An intelligent, AI-powered **Adaptive Meal Planner** that leverages **RAG (Retrieval-Augmented Generation)** to generate personalized meal plans based on user-uploaded **Medical Health Reports**. The system intelligently adapts dietary recommendations to individual health conditions using Google Gemini 2.5 Pro and efficient semantic search embeddings.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📄 **Medical Report Analysis**  
+-  **Medical Report Analysis**  
   Upload your health reports (PDF, text) and extract meaningful data to guide dietary planning.
 
-- 🤖 **LLM Integration with Google Gemini 2.5 Pro**  
+-  **LLM Integration with Google Gemini 2.5 Pro**  
   Uses a powerful LLM to generate health-conscious, context-aware responses and recommendations.
 
-- 🔍 **RAG Architecture**  
+-  **RAG Architecture**  
   Combines vector-based retrieval with generative reasoning for accurate, personalized output.
 
-- 🧠 **Embeddings with `all-MiniLM-L6-v2`**  
+-  **Embeddings with `all-MiniLM-L6-v2`**  
   Lightweight, fast, and highly effective model for sentence-level semantic understanding and retrieval.
 
-- 🥗 **Custom Meal Plans**  
+-  **Custom Meal Plans**  
   Generates adaptive meal suggestions considering conditions like:
   - Diabetes
   - High/Low Blood Pressure
@@ -31,7 +31,7 @@ An intelligent, AI-powered **Adaptive Meal Planner** that leverages **RAG (Retri
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 | Layer        | Technology                         |
 |--------------|-------------------------------------|
@@ -58,7 +58,7 @@ An intelligent, AI-powered **Adaptive Meal Planner** that leverages **RAG (Retri
 
 ---
 
-## ✅ Use Cases
+## Use Cases
 
 - Patients seeking diet modifications for chronic conditions.
 - Nutritionists and healthcare professionals building adaptive diet plans.
@@ -66,7 +66,7 @@ An intelligent, AI-powered **Adaptive Meal Planner** that leverages **RAG (Retri
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - Add multilingual support.
 - Enable meal plan export (PDF, Calendar sync).
@@ -75,7 +75,7 @@ An intelligent, AI-powered **Adaptive Meal Planner** that leverages **RAG (Retri
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 - LangChain-based RAG Implementation  
 - LLM Integration (Google Gemini Pro)  
@@ -86,10 +86,7 @@ An intelligent, AI-powered **Adaptive Meal Planner** that leverages **RAG (Retri
 
 ---
 
-> 🔍 *This project showcases the power of LLMs combined with user-specific knowledge to build meaningful, real-world applications in the healthcare domain.*
+*This project showcases the power of LLMs combined with user-specific knowledge to build meaningful, real-world applications in the healthcare domain.*
 
 ---
 
-**Author**: [Your Name]  
-**GitHub**: [github.com/yourusername]  
-**LinkedIn**: [linkedin.com/in/yourprofile]
